@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Liu"
+  given-names: "Yang"
+title: "Neural Network Model for Ca II Absorption Lines"
+version: "1.0"
+doi: 10.5281/zenodo.13953656
+date-released: 2024-10-19
+url: "https://github.com/LinsLab/Ca"
